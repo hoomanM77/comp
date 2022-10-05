@@ -1,0 +1,15 @@
+*{
+    font-family: Cairo,sans-serif;
+}
+.container{
+    width: calc(100% - 10rem);
+    margin: auto;
+    padding: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(111,111,111,0.96);
+}
+h1{
+    color: #fff;
+}
